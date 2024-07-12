@@ -4,7 +4,6 @@
   align-items: center;
   padding: 20px;
   background-color: #fff;
-  border-bottom: 2px solid #ccc;
 }
 
 .logo {
@@ -20,7 +19,7 @@
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #7ca068;
+  background-color: #87ad64;
   border: none;
   color: #fff;
   border-radius: 5px;
@@ -28,5 +27,5 @@
 }
 
 .nav-button:hover {
-  background-color: #545454;
+  background-color: #5a604a;
 }

@@ -9,7 +9,7 @@ function AboutUs() {
             <img src={headingImage} alt="Sip & Play Heading" className="heading-image" />
       <div className="about-us-content">
         <div className="about-us-text">
-          <h2>About Us</h2>
+          <h2><u>ABOUT US</u></h2>
           <p>
             Welcome to Sip & Play, where board games, boba, and delicious food collide in a symphony of fun! Our founder, Jonathan Li, couldn't choose between his love for board games and his craving for boba, so he decided to mix them up into Park Slope’s first board game cafe.
           </p>
