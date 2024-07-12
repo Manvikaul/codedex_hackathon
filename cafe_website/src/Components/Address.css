@@ -1,0 +1,15 @@
+.address {
+    text-align: center;
+    padding: 20px;
+    background-color: #7ca068; /* Green color from the logo */
+    color: #fff;
+    font-family: 'Lora', serif;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .address h2 {
+    color: #fff;
+    font-size: 2rem;
+  }
+  

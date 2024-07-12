@@ -1,0 +1,41 @@
+.about-us {
+    text-align: center;
+    padding: 40px 20px;
+    font-family: 'Lora', serif;
+  }
+  
+  .heading-image {
+    width: 100%;
+    max-width: 1100px;
+    max-height: 250px;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  
+  .about-us-image {
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-text {
+    max-width: 600px;
+    text-align: left;
+    color: #333;
+    font-size: 1.1rem;
+  }
+  
+  .about-us-text h2 {
+    color: #008000;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  

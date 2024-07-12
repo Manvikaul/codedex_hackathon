@@ -1,0 +1,23 @@
+.homepage {
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #7ca068; /* Green color from the logo */
+    color: #fff;
+    border-top: 1px solid #ccc;
+  }
+  
+  .footer section {
+    background-color: transparent;
+    color: #fff;
+  }
+
+  .footer h2 {
+    color: #fff;
+    font-family: 'Lora', serif;
+  }
+  
